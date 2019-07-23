@@ -1,0 +1,27 @@
+body{
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+.row.table-padding-custom {
+    padding: 0px 15px;
+}
+.row.add-padding-buttom{
+    padding-bottom: 60px
+}
+h1.header-title{
+    padding-top: 35px;
+    padding-bottom: 70px;
+}
+.col-9.text-right {
+    padding-top: 25px;
+}
+span.sub-title {
+    font-size: 14px;
+}
+td.change-background{
+    background-color: rgb(222, 221, 224);
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
+    /* STYLES HERE */
+}

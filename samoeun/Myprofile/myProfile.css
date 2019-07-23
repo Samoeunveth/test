@@ -1,0 +1,16 @@
+body{
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+div.card-header{
+    padding: 5px 20px;
+}
+.row.add-padding-buttom{
+    padding-bottom: 20px
+}
+.row.add-padding-more{
+    padding-bottom: 40px
+}
+h1.header-title{
+    padding-top: 35px;
+}

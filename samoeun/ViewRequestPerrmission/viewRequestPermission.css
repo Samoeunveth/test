@@ -1,0 +1,29 @@
+body{
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+div.card-header{
+    padding: 5px 20px;
+}
+.row.add-padding-buttom{
+    padding-bottom: 20px
+}
+h1.header-title{
+    padding-top: 35px;
+}
+.button-padding {
+    padding: 2px 20px;
+}
+div.container-fluid.change-background{
+    background-color: rgb(95, 95, 94)
+}
+div.col-8.add-background-padding{
+    padding-top: 50px;
+    padding-bottom: 50%;
+}
+.row.table-padding-custom {
+    padding: 0px 15px;
+}
+td.change-background{
+    background-color: rgb(222, 221, 224);
+}
